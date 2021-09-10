@@ -1,0 +1,20 @@
+/*******Book-my-show planning*******/
+(Using layout first approach)
+
+-> we need a reusable carousel
+    1. Hero carousel
+    2. common carousel
+    3. cast and crew small carousel
+
+-> Pages
+    1. Home Page
+    2. Movie Page
+    3. Categories Page
+    4. Auth Page
+    5. Razerpay payment gateway
+
+-> plan : How are we buliding it????🤔
+    1. Layouts
+    2. Routes
+    3. Pages
+    4. Components
