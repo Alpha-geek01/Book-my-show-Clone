@@ -29,9 +29,9 @@ const HeroCarousal = () => {
     };
 
     const images = [
-        "https://in.bmscdn.com/promotions/cms/creatives/1631112222603_whodoyoudo_webshowcase_1240x300.jpg",
+        "https://in.bmscdn.com/promotions/cms/creatives/1630432985528_incinemasthisfriday_shangchiandthelegendofthetenrings_webshowcase_1240x300.jpg",
         "https://in.bmscdn.com/promotions/cms/creatives/1629887023798_rugbyworldcuplisting_webshowcasenew_1240x300.jpg",
-        "https://in.bmscdn.com/promotions/cms/creatives/1628590663574_inoxweb.jpg",
+        "https://in.bmscdn.com/promotions/cms/creatives/1630995773558_moviethailavi_eng_incinemasnow_booknow_webshowcase_1240x300_7sep.jpg",
         "https://in.bmscdn.com/promotions/cms/creatives/1631109603599_loveisintheair_webshowcase_1240x300.jpg",
         "https://in.bmscdn.com/promotions/cms/creatives/1629829991978_celebfiecruisewiththestarsrevised_webshowcase_1240x300_24aug.jpg",
         "https://in.bmscdn.com/promotions/cms/creatives/1631108812072_paradox_webshowcase_1240x300.jpg",

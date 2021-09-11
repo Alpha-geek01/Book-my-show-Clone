@@ -3,7 +3,7 @@ import React from 'react';
 export const Poster = (props) => {
     return (
         <>
-            <div className="flex flex-col items-start gap-2 px-3">
+            <div className="flex flex-col items-start px-7">
                 <div className="h-80">
                     <img 
                         src={props.src} 
